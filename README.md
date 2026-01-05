@@ -85,3 +85,5 @@ Lowercase letters requirement
 Password confirmation match
 
 Serves as foundation for learning cybersecurity basics.
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/acf8a29b-d2c3-4abc-8852-362240ddcbfa" />
+
